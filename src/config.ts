@@ -131,7 +131,7 @@ export const config = {
       title: "Apparative Kosmetik",
       description: "Modernste Geräte für optimale Ergebnisse. Ob Ultraschall, Mikrodermabrasion oder LED-Therapie, wir finden die passende Behandlung für Sie.",
       price: "ab 69€",
-      image: "/beauty/behandlung%204.png",
+      image: "/beauty/microneedling.jpg",
       benefits: ["Moderne Technik", "Sichtbare Ergebnisse"],
     },
     {
@@ -253,7 +253,7 @@ export const config = {
       { url: "/beauty/microneedling.jpg", category: "Behandlung" },
       { url: "/beauty/behandlung%202.webp", category: "Behandlung" },
       { url: "/beauty/behandlung%203.png", category: "Behandlung" },
-      { url: "/beauty/behandlung%204.png", category: "Behandlung" },
+      { url: "/beauty/hero%20main.webp", category: "Behandlung" },
       { url: "/beauty/wimpern.png", category: "Augen" },
       { url: "/beauty/wimpern%20(2).webp", category: "Augen" },
       { url: "/beauty/eyebrow-after.png", category: "Augen" },
