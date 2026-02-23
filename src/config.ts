@@ -68,7 +68,7 @@ export const config = {
   owner: {
     name: "Svetlana",
     fullName: "Svetlana Muratova",
-    image: "/beauty/svetlana.jpg",
+    image: "/svetlana.jpg",
     bio: [
       "Als Gründerin und Chefkosmetikerin von cosmeta24 bringe ich über 7 Jahre Erfahrung in der professionellen Kosmetik mit. Meine Ausbildung als Kosmetikerin-Ästhetikerin habe ich durch zahlreiche Fortbildungen und Praktika kontinuierlich erweitert.",
       "In meinem Studio in der Heilbronner Karlstraße biete ich Ihnen ein umfassendes Spektrum an Gesichtsbehandlungen. Von der gründlichen Gesichtsreinigung über intensive Peelings bis hin zur entspannenden Gesichtsmassage.",
